@@ -1,0 +1,44 @@
+.login {
+    min-height: 100vh;
+  }
+  
+  .bg-image {
+    background-image: url('https://img.freepik.com/free-vector/people-walking-sitting-hospital-building-city-clinic-glass-exterior-flat-vector-illustration-medical-help-emergency-architecture-healthcare-concept_74855-10130.jpg');
+    /* background-size: cover;  */
+    background-position: center;
+    height: 400px;
+    width: 650px;
+    margin-top: 100px;
+    
+    
+    
+
+  }
+
+  .design{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+
+  
+
+  .form-control{
+      border-radius: 8px;
+      
+
+  }
+  
+  .login-heading {
+    font-weight: 300;
+  }
+  
+  .btn-login {
+    font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+    padding: 0.75rem 1rem;
+    border-radius: 25px;
+    
+  
+  
+    
+
+  }

@@ -1,0 +1,31 @@
+.reg{
+    margin-left:550px;
+    font-weight: bold;
+}
+
+.reg1{
+    margin-left:950px;
+    font-weight: bold;
+}
+
+.log{
+    margin-left: 40px;
+    font-weight: bold;
+}
+
+.log1{
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+.gclass{
+    width: 170px;
+}
+.logo{
+
+    font-weight: bold;
+}
+/* .container-fluid{
+    font-weight: normal;
+    font-style: italic;
+} */

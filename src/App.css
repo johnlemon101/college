@@ -1,0 +1,13 @@
+body{
+    background-color: white;
+  
+}
+
+.custom-heading-h2{
+    color: brown;
+    text-align: center;
+    border-bottom: 1px solid black;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+}

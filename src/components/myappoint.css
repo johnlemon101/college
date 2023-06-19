@@ -1,0 +1,19 @@
+.img-fluid {
+    border-radius: 50%;
+    height: 75px;
+    width: 85px;
+  }
+
+
+  .design{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+
+
+  .myimg{
+    width:250px;
+    height:250px;
+    background-size:cover;
+    background-position:center;
+    border-radius:50%;
+  }

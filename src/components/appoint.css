@@ -1,0 +1,32 @@
+.appoint {
+    min-height: 100vh;
+  }
+
+
+.appoint-image {
+    background-image: url('https://image.freepik.com/free-vector/man-booking-appointment-smartphone_23-2148562877.jpg');
+    background-size: cover; 
+    background-position: center;
+    height: 400px;
+    width: 650px;
+    margin-top: 100px;
+    
+    
+    
+    
+
+  }
+  .gender1{
+    font-size: 13px;
+    color: gray;
+    margin-top: -10px;
+  }
+
+  .img1{
+    margin-top: -9px;
+  }
+
+
+  .design{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
